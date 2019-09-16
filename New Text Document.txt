@@ -1,0 +1,8 @@
+1.) Install git
+2.) cd folder to where you want to checkout code
+3.) git init
+4.) git remote add origin https://github.com/jitendra9939/myJavaProjectTest.git
+5.) git remote -v (to check if origin is added)
+6.) git clone https://github.com/jitendra9939/myJavaProjectTest.git
+7.) git config --global user.name "your name"
+8.) git config --global user.email "your email"
